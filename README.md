@@ -13,21 +13,23 @@ Uma API RESTful leve e de alta performance desenvolvida com Node.js e Fastify, c
 
 ```bash
 git clone https://github.com/OtavioRonconi/api-formula-1-fastify.git
+
 2. Acesse a pasta do projeto:
 
-Bash
 cd api-formula-1-fastify
+
 3. Instale as dependências:
 
-Bash
 npm install
+
 4. Inicie o servidor:
 
-Bash
 npm start
+
 O servidor estará rodando em http://localhost:3333.
 
 📌 Endpoints da API
+
 GET /drivers - Retorna a lista de todos os pilotos.
 
 GET /drivers/:id - Retorna os detalhes de um piloto específico.
