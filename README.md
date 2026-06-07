@@ -10,7 +10,7 @@ Uma API RESTful leve e de alta performance desenvolvida com Node.js e Fastify, c
 ## ⚙️ Como Executar o Projeto
 
 ```bash
-**1. Clone este repositório:**
+1. Clone este repositório:
 
 git clone https://github.com/OtavioRonconi/api-formula-1-fastify.git
 
